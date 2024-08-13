@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "Buque": "Santa Maria",
+        "Capitan": "John Smith",
+        "Naviera": "Oceanic Shipping Co.",
+        "Muelle": "Muelle 1",
+        "Remolcadores": ["Titan", "Poseidon"],
+        "FechaHoraInicio": "2024-08-14 08:00:00",
+        "FechaHoraTermino": "2024-08-14 10:00:00"
+    },
+    {
+        "id": 2,
+        "Buque": "Pacific Explorer",
+        "Capitan": "Emma Johnson",
+        "Naviera": "Maritime Voyages Ltd.",
+        "Muelle": "Muelle 2",
+        "Remolcadores": ["Neptune"],
+        "FechaHoraInicio": "2024-08-14 09:30:00",
+        "FechaHoraTermino": "2024-08-14 11:30:00"
+    },
+    {
+        "id": 3,
+        "Buque": "Atlantic Queen",
+        "Capitan": "William Brown",
+        "Naviera": "Atlantic Traders Inc.",
+        "Muelle": "Muelle 3",
+        "Remolcadores": ["Hercules", "Triton", "Orion"],
+        "FechaHoraInicio": "2024-08-14 10:00:00",
+        "FechaHoraTermino": "2024-08-14 12:00:00"
+    },
+    {
+        "id": 4,
+        "Buque": "Coral Princess",
+        "Capitan": "Isabella Martinez",
+        "Naviera": "Global Seaways",
+        "Muelle": "Muelle 4",
+        "Remolcadores": ["Zeus", "Athena"],
+        "FechaHoraInicio": "2024-08-14 11:00:00",
+        "FechaHoraTermino": "2024-08-14 13:00:00"
+    },
+    {
+        "id": 5,
+        "Buque": "Eastern Voyager",
+        "Capitan": "Noah Davis",
+        "Naviera": "East Wind Lines",
+        "Muelle": "Muelle 5",
+        "Remolcadores": ["Apollo"],
+        "FechaHoraInicio": "2024-08-14 12:00:00",
+        "FechaHoraTermino": "2024-08-14 14:00:00"
+    },
+    {
+        "id": 6,
+        "Buque": "Western Star",
+        "Capitan": "Sophia Wilson",
+        "Naviera": "West Coast Shipping",
+        "Muelle": "Muelle 6",
+        "Remolcadores": ["Ares", "Hades", "Cronos"],
+        "FechaHoraInicio": "2024-08-14 13:00:00",
+        "FechaHoraTermino": "2024-08-14 15:00:00"
+    },
+    {
+        "id": 7,
+        "Buque": "Northern Spirit",
+        "Capitan": "James Anderson",
+        "Naviera": "Northern Lights Co.",
+        "Muelle": "Muelle 7",
+        "Remolcadores": ["Zephyr", "Boreas"],
+        "FechaHoraInicio": "2024-08-14 14:00:00",
+        "FechaHoraTermino": "2024-08-14 16:00:00"
+    },
+    {
+        "id": 8,
+        "Buque": "Southern Breeze",
+        "Capitan": "Olivia Taylor",
+        "Naviera": "Southern Cross Lines",
+        "Muelle": "Muelle 8",
+        "Remolcadores": ["Aeolus"],
+        "FechaHoraInicio": "2024-08-14 15:00:00",
+        "FechaHoraTermino": "2024-08-14 17:00:00"
+    },
+    {
+        "id": 9,
+        "Buque": "Golden Horizon",
+        "Capitan": "Liam White",
+        "Naviera": "Golden Seas Shipping",
+        "Muelle": "Muelle 9",
+        "Remolcadores": ["Helios", "Selene"],
+        "FechaHoraInicio": "2024-08-14 16:00:00",
+        "FechaHoraTermino": "2024-08-14 18:00:00"
+    },
+    {
+        "id": 10,
+        "Buque": "Silver Dawn",
+        "Capitan": "Ava Lee",
+        "Naviera": "Silver Marine Ltd.",
+        "Muelle": "Muelle 10",
+        "Remolcadores": ["Oceanus", "Pontus", "Proteus"],
+        "FechaHoraInicio": "2024-08-14 17:00:00",
+        "FechaHoraTermino": "2024-08-14 19:00:00"
+    }
+]
